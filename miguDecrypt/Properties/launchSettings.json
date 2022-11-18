@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "miguDecrypt": {
+      "commandName": "Project",
+      "commandLineArgs": "-d 60054702010 -i \"P:\\k40\\12530\\download\\周杰伦-稻香.mg3d\""
+    }
+  }
+}
